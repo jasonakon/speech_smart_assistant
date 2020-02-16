@@ -29,3 +29,7 @@ This repository is created to share the software architecture design for a compl
 
 ### Web Application & CI/CD Architecture Design
 <img src="web_app_architecture.png" alt="drawing5"/>
+
+### NLP Model Design Cycle:
+<img src="nlp_model_design_cycle.png" alt="drawing6"/>
+
